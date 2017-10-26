@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Catalogue Movie Ui Ux</string>
+
+    <string name="navigation_drawer_open">Buka Laci Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Laci Navigasi</string>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="action_announcement">Pengumuman</string>
+    <string name="djaka_permana">Djaka Permana</string>
+    <string name="djaka_permana_gmail_com">djakapermana95@gmail.com</string>
+    <string name="upcoming">Mendatang</string>
+    <string name="now_playing">Sedang Dimainkan</string>
+    <string name="search">Pencarian</string>
+    <string name="home">Beranda</string>
+    <string name="search_hint">Masukan Kata</string>
+
+    <string name="detail">Detail</string>
+    <string name="share">Bagikan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+</resources>

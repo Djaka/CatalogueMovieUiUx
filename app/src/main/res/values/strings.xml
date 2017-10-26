@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Catalogue Movie Ui Ux</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_announcement">Announcement</string>
+    <string name="djaka_permana">Djaka Permana</string>
+    <string name="djaka_permana_gmail_com">djakapermana95@gmail.com</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="search_hint">Word Input</string>
+
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
